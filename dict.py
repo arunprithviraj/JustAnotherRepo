@@ -1,5 +1,5 @@
-adict = {"1":"Arun","2":"Seethu","3":"Advaith","4":"DesertStorm"}
-#print adict.values()
+﻿adict = {"1":"Arun","2":"Seethu","3":"Advaith","4":"DesertStorm"}
+print adict.values()
 #print adict.keys()
 
 #print adict
